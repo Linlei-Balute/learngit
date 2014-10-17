@@ -27,7 +27,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   <s:iterator value="BookList" id="b">
     	<hr/>
     	<h1 align="center"><font color="blue">全部书单:</font></h1>
-    	<br> <h2>书名*:  <s:property value="#b"/></h2>
+    	<br> <h2>书名:  <s:property value="#b"/></h2>
     	<form action="delete.action" method="post">
     	<input name="deleteBookName" value="${b}" type="hidden"/> 
     	<input type="submit" value="删除书目"/>

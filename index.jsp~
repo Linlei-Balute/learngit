@@ -21,7 +21,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   </head>
 
   <body>
-    <h2 align="center"  ><font color="blue">	我的主页 </font></h2>
+    <h2 align="center"  ><font color="blue">	我的主页* </font></h2>
   <hr>
   <center>
   <p align="center"> <font >  查找作者</font></p>
