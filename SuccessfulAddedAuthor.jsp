@@ -23,7 +23,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   </head>
   
   <body>
-    此作者信息已成功录入*！<br>
+    此作者信息已成功录入！<br>
     Click <a href="index.jsp">here</a> 回到主页<br>
     Click <a href="addBook.jsp">here</a> 继续添加书目
   </body>

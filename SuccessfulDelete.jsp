@@ -23,8 +23,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   </head>
   
   <body>
-    书目删除成功*
-！<br>
+    书目删除成功！<br>
     点击 <a href="index.jsp">此处</a> 回到主页
   </body>
 </html>

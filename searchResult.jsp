@@ -18,7 +18,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 	<!--
 	<link rel="stylesheet" type="text/css" href="styles.css">
 	-->
-<!-- 在这一页中输出查询结果* -->
+<!-- 在这一页中输出查询结果 -->
   </head>
   
   <body>
