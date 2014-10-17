@@ -23,7 +23,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   </head>
   
   <body>
-  <h2 align="center"><font color="blue">更新书籍信息--请填写下面空格</font></h2>
+  <h2 align="center"><font color="blue">更新书籍信息*--请填写下面空格</font></h2>
     <form action="renewBook.action" method="post">
     	书名 :  <input type="text" name = "renewBookName"><br>
     	<br>

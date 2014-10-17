@@ -23,7 +23,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   </head>
   
   <body>
-    Book  has  been succesfulAdded！<br><br>
+    Book  has  been succesfulAdded*！<br><br>
     点击 <a href="index.jsp">此处</a> 回到主页;
   </body>
 </html>

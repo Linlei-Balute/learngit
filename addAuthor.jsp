@@ -31,6 +31,6 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
     	国籍:  <input type="text" name="addauthorcountry"/><br><br>
     	<input type="submit" value="添加"/>
     </form> 
-    点击 <a href="index.jsp">此处</a> 回到主页
+    点击* <a href="index.jsp">此处</a> 回到主页
   </body>
 </html>
